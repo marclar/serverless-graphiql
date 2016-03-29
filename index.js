@@ -10,7 +10,7 @@ module.exports = function(S) {
     mime         = require('mime'),
     fs           = require('fs'),
     https        = require('https'),
-    indexHtmlUrl = 'https://raw.githubusercontent.com/graphql/graphiql/master/example/index.html#d5f027ae851d357c6d83e6b908baba888b5b7282';
+    indexHtmlUrl = 'https://raw.githubusercontent.com/graphql/graphiql/d5f027ae851d357c6d83e6b908baba888b5b7282/example/index.html';
 
   class ClientDeploy extends S.classes.Plugin {
 
