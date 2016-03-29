@@ -1,0 +1,44 @@
+{
+  "name": "serverless-graphiql",
+  "version": "1.0.0",
+  "engines": {
+    "node": ">=4.0"
+  },
+  "description": "Deploys a GraphiQL web client to a public S3 Website Bucket.",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/serverless/serverless-graphiql.git"
+  },
+  "keywords": [
+    "serverless",
+    "serverless plugins",
+    "lambda",
+    "aws",
+    "aws lambda",
+    "amazon",
+    "amazon web services",
+    "s3",
+    "website",
+    "frontend",
+    "serverless.com",
+    "graphql",
+    "graphiql"
+  ],
+  "author": "Michael Kane",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/serverless/serverless-graphiql/issues"
+  },
+  "homepage": "https://github.com/serverless/serverless-graphiql#readme",
+  "dependencies": {
+    "async": "^1.5.2",
+    "bluebird": "^3.0.6",
+    "graphiql": "^0.6.6",
+    "lodash": "^4.2.1",
+    "mime": "^1.2.11"
+  }
+}
