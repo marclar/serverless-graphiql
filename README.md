@@ -1,5 +1,5 @@
-serverless-client-s3
-====================
+serverless-graphiql
+===================
 [![serverless](http://public.serverless.com/badges/v3.svg)](http://www.serverless.com)
 
 A Serverless plugin that deploys a [GraphiQL](https://github.com/graphql/graphiql) client to an S3 bucket and makes it publicly available in seconds.
